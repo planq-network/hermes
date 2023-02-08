@@ -116,7 +116,7 @@ id = 'planq_7070-2'
 rpc_addr = 'https://rpc.planq.network:443'
 
 # Specify the GRPC address and port where the chain GRPC server listens on. Required
-grpc_addr = 'http://planq-grpc.polkachu.com:20390'
+grpc_addr = 'https://grpc.planq.network/'
 
 # Specify the WebSocket address and port where the chain WebSocket server
 # listens on. Required
