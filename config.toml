@@ -113,7 +113,7 @@ port = 3001
 id = 'planq_7070-2'
 
 # Specify the RPC address and port where the chain RPC server listens on. Required
-rpc_addr = 'https://planq-rpc.polkachu.com:443'
+rpc_addr = 'https://rpc.planq.network:443'
 
 # Specify the GRPC address and port where the chain GRPC server listens on. Required
 grpc_addr = 'http://planq-grpc.polkachu.com:20390'
